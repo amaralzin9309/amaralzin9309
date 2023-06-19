@@ -8,4 +8,4 @@ I am an IT professional with extensive experience in Java, Angular, Python, and 
 
 #### Contact
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">](https://www.linkedin.com/in/victor-amaral-262945113/)
